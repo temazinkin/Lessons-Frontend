@@ -1,3 +1,4 @@
+$enable-rounded: false;
 
 $primary: #007779;
 $secondary: #00B993;
@@ -10,3 +11,7 @@ $theme-colors: (
 );
 
 $min-contrast-ratio: 2.2;
+
+
+$navbar-dark-color: $white;
+// $navbar-dark-hover-color: $primary;
