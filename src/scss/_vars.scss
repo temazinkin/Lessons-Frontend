@@ -19,11 +19,14 @@ $navbar-dark-color: $white;
 $card-border-width: none;
 
 $list-group-border-width: 0px;
+$list-group-item-padding-y: 2rem;
+
 $list-group-bg: $secondary;
 $list-group-color: $white;
 $list-group-hover-bg: $primary;
 $list-group-action-hover-color: $white;
-$list-group-item-padding-y: 2rem;
+$list-group-action-active-bg: $primary;
+$list-group-action-active-color: $white;
 
 $badge-font-size: 1.125rem;
 $badge-font-weight: 400;
