@@ -48,4 +48,10 @@
         padding: 0 1rem;
         transition: inherit;
     }
+    &:hover {
+        .arrow,
+        .text {
+            background-color: $white;
+        }
+    }
 }
