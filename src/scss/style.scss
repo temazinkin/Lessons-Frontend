@@ -9,4 +9,12 @@
         align-items: center;
         justify-content: center;
     }
+    .darklink {
+        text-decoration: none;
+        color: $body-color;
+        svg {
+            margin-left: 0.5rem;
+            vertical-align: text-top;
+        }
+    }
 }
